@@ -10,7 +10,7 @@
   <h3 align="center">SHOPMMO.INFO API</h3>
 
   <p align="center">
-Sau đây là hướng dẫn cách nối API. Ngôn ngữ sử dụng là cURL
+Sau đây là hướng dẫn cách nối API. Chỉ áp dụng cho các phần MUA TÀI KHOẢN (không áp dụng cho MUA TƯƠNG TÁC, THUÊ SIM CODE hoặc PROXY)
     <br />
     <a href="https://shopmmo.info"><strong>VÀO CỬA HÀNG</strong></a>
     <br />
